@@ -1,0 +1,23 @@
+{
+  "name": "curso-cypress",
+  "version": "1.0.0",
+  "description": "Apresentação do Cypress para a equipe da CAD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evandrosevergnini/curso-cypress.git"
+  },
+  "keywords": [
+    "curso",
+    "cypress"
+  ],
+  "author": "Evandro C. Severgnini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evandrosevergnini/curso-cypress/issues"
+  },
+  "homepage": "https://github.com/evandrosevergnini/curso-cypress#readme"
+}
