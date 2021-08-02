@@ -4,7 +4,7 @@
   "description": "Apresentação do Cypress para a equipe da CAD",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "open": "cypress open"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/evandrosevergnini/curso-cypress/issues"
   },
-  "homepage": "https://github.com/evandrosevergnini/curso-cypress#readme"
+  "homepage": "https://github.com/evandrosevergnini/curso-cypress#readme",
+  "dependencies": {
+    "cypress": "^8.1.0"
+  }
 }

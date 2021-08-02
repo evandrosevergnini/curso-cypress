@@ -1,0 +1,18 @@
+Adicionar o Cypress ao projeto
+    > yarn add cypress
+
+Criar script para rodar o Cypress no projeto
+    - no arquivo package.json, adicionar o script para roda o Cypress:
+    "scripts": {
+        "cypress:open": "cypress open"
+    },
+    - no terminal execute:
+    > yarn cypress:open
+    * observe que o cypress e carregado e uma pasta de nome cypress é adicionada ao projeto
+    * no Cypress clique em algum dos testes para vê-lo sendo executado no chrome
+    * observe os resultados da execução dos testes
+    * apague as pastas 
+        cypress/integration/1-getting-starting
+        cypress/integration/2-advanced-examples
+      pois a partir de agora vamos criar nossos próprios testes
+    
