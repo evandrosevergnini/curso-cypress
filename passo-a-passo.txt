@@ -1,3 +1,6 @@
+Iniciar projeto
+    > yarn init -y
+
 Adicionar o Cypress ao projeto
     > yarn add cypress
 
